@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "web-academic",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
